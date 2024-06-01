@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6648580727b4e89c536613a6"
+  },
+  "username": "Deepak",
+  "email": "deepakjudejohn@gmail.com",
+  "password": "Deepak@123",
+  "dpLink": ""
+},
+{
+  "_id": {
+    "$oid": "6648580727b4e89c536613a7"
+  },
+  "username": "Gita",
+  "email": "gita@gmail.com",
+  "password": "gita@123",
+  "dpLink": ""
+},
+{
+  "_id": {
+    "$oid": "664975ed1ec2bba998e45327"
+  },
+  "email": "denny@gmail.com",
+  "dpLink": "https://www.southernliving.com/thmb/WHH7cdFT3YMJlJN4y7y3lsAKvJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-114166947-1-268128f97e5c415baede328c1fe32f55.jpg",
+  "password": "denny@123",
+  "dob": "2172000",
+  "name": "Denny Nj",
+  "username": "deepak2john",
+  "following": [
+    "6648580727b4e89c536613a6",
+    "6648580727b4e89c536613a7"
+  ],
+  "followers": [
+    "665433686c6ba6f4c898aeb0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "665433686c6ba6f4c898aeb0"
+  },
+  "username": "Maclusto ",
+  "email": "maclusterr@gmail.com",
+  "password": "Macluster@123",
+  "followers": [],
+  "following": [
+    "664975ed1ec2bba998e45327"
+  ],
+  "dpLink": ""
+}]

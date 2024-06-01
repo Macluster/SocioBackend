@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "664b36ea19163938bebc9088"
+  },
+  "userId": "6648580727b4e89c536613a6",
+  "mediaType": " ",
+  "mediaLink": "http://192.168.1.40:3000/images/test3.png ",
+  "location": "Ernakulam",
+  "description": " ",
+  "likes": [
+    "664975ed1ec2bba998e45327"
+  ],
+  "comments": [
+    {
+      "userName": "Deepak",
+      "dpLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGim4hY36cx3RvZ-jUIr2NgLottlxEQl4fQg&s",
+      "comment": "Wow super photo Bro",
+      "reply": []
+    },
+    {
+      "userName": "Denny",
+      "dpLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGim4hY36cx3RvZ-jUIr2NgLottlxEQl4fQg&s",
+      "comment": "Nice pic",
+      "reply": []
+    },
+    {
+      "userName": "Gita",
+      "dpLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGim4hY36cx3RvZ-jUIr2NgLottlxEQl4fQg&s",
+      "comment": "Good picture Son",
+      "reply": []
+    },
+    {
+      "userName": "Diya",
+      "dpLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGim4hY36cx3RvZ-jUIr2NgLottlxEQl4fQg&s",
+      "comment": "Very good picture Broii",
+      "reply": []
+    }
+  ],
+  "date": " "
+},
+{
+  "_id": {
+    "$oid": "664b475a94d229614ed7028f"
+  },
+  "userId": "6648580727b4e89c536613a7",
+  "mediaType": "image",
+  "mediaLink": "http://192.168.1.40:3000/images/test2.png ",
+  "location": "Kochi ",
+  "description": "Vibing with frnds",
+  "likes": [
+    "664975ed1ec2bba998e45327"
+  ],
+  "comments": [
+    {
+      "userName": "deepak2john",
+      "dpLink": "",
+      "comment": "Nice pic Dhoni bai",
+      "reply": []
+    }
+  ],
+  "date": "Mon May 20 2024 18:21:38 GMT+0530 (India Standard Time)"
+},
+{
+  "_id": {
+    "$oid": "664b48094f70a1f4506100c2"
+  },
+  "userId": "iadada",
+  "mediaType": "image",
+  "mediaLink": "asfsafsafsaf ",
+  "location": "Kochi ",
+  "description": "Vibing with frnds",
+  "likes": [],
+  "comments": [],
+  "date": "Mon May 20 2024 18:24:33 GMT+0530 (India Standard Time)"
+},
+{
+  "_id": {
+    "$oid": "66531be7cd5b645b6dae4976"
+  },
+  "userId": "664975ed1ec2bba998e45327",
+  "mediaType": "image",
+  "mediaLink": "http://192.168.1.41:3000/images/79690.png",
+  "location": "Kolencheri",
+  "description": "Sun kissed 🌞☀️",
+  "likes": [
+    "665433686c6ba6f4c898aeb0"
+  ],
+  "comments": [
+    {
+      "userName": "Maclusto ",
+      "dpLink": "",
+      "comment": "Nice pic bro🔥",
+      "reply": []
+    },
+    {
+      "userName": "Maclusto ",
+      "dpLink": "",
+      "comment": "Nice pic bro",
+      "reply": []
+    }
+  ],
+  "date": "Sun May 26 2024 16:54:23 GMT+0530 (India Standard Time)"
+},
+{
+  "_id": {
+    "$oid": "66531e18cfdf9b51da310c94"
+  },
+  "userId": "664975ed1ec2bba998e45327",
+  "mediaType": "image",
+  "mediaLink": "http://192.168.1.41:3000/images/125024.png",
+  "location": "Scms School of Technology and Management ",
+  "description": "Best friends 💕",
+  "likes": [
+    "665433686c6ba6f4c898aeb0"
+  ],
+  "comments": [
+    {
+      "userName": "Maclusto ",
+      "dpLink": "",
+      "comment": "Nice pic",
+      "reply": []
+    }
+  ],
+  "date": "Sun May 26 2024 17:03:44 GMT+0530 (India Standard Time)"
+},
+{
+  "_id": {
+    "$oid": "66573e169adf9cc02c588820"
+  },
+  "userId": "665433686c6ba6f4c898aeb0",
+  "mediaType": "image",
+  "mediaLink": "http://192.168.1.41:3000/images/image3A111818.png",
+  "location": "ENGLAND",
+  "description": "My Ride",
+  "likes": [],
+  "comments": [],
+  "date": "Wed May 29 2024 20:09:18 GMT+0530 (India Standard Time)"
+}]
